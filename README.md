@@ -5,6 +5,5 @@ This project was made for academic purpose and this project was too much benefic
 This project was made on "Online Car Showroom Database Management System" that depicts various required queries that could be used for maintaining online car showroom as well as for stroring all possible information for this showroom. 
 <br>
 <br>
-Rifat Arefin
-<br>
-CSE, KUET.
+<a href="https://github.com/RIfatArefin32">Rifat Arefin</a><br>
+<a href="https://www.kuet.ac.bd/department/CSE/">CSE, KUET.</a>
